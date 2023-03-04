@@ -1,0 +1,6 @@
+framework module Pods_ShopApp_ITI_ShopApp_ITIUITests {
+  umbrella header "Pods-ShopApp_ITI-ShopApp_ITIUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

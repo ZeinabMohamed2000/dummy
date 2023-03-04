@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (5.6.4)
+  - Floaty (4.2.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Floaty (~> 4.2)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Floaty
+
+SPEC CHECKSUMS:
+  Alamofire: 4e95d97098eacb88856099c4fc79b526a299e48c
+  Floaty: e2bd5a0f6f7f70899e26ff2da31081c8bee8d1b0
+
+PODFILE CHECKSUM: 29277aa38c558a5bb52da40193b3bd61555570cf
+
+COCOAPODS: 1.11.3
